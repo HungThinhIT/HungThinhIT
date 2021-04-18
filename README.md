@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hungthinh0710&repo=recruitment-management&theme=dracula)](https://github.com/HungThinh0710/recruitment-management)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hungthinh0710&repo=Laravel5-SpaManagement&theme=dracula)](https://github.com/HungThinh0710/Laravel5-SpaManagement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hungthinh0710&repo=LearnVocabularyAPI&theme=dracula)](https://github.com/HungThinh0710/LearnVocabularyAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hungthinh0710&repo=KaiNixTool&theme=dracula)](https://github.com/HungThinh0710/KaiNixTool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hungthinh0710&repo=QRCodeForTravel&theme=dracula)](https://github.com/HungThinh0710/QRCodeForTravel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hungthinh0710&repo=vnjobs-mobile&theme=dracula)](https://github.com/HungThinh0710/vnjobs-mobile)
 
